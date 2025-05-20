@@ -91,14 +91,14 @@
             <div class="col-sm-12 col-md-12 col-lg-6">
               <div class="package__body">
                 <div class="text-center">
-                  <h5 class="package__subtitle">femme de ménage polyvalente </h5>
+                  <h5 class="package__subtitle">Employé polyvalente</h5>
                   <p class="package__desc" style="text-align: left;">
 
-                    La femme de ménage polyvalente est principalement une aide ménagère c’est une personne capable de prendre en charge plusieurs responsabilités dans un cadre domestique . <br>
-                    Les tâches principales seront de s’occuper de la propreté de la maison et à préparer des plats marocains traditionnelles variés ou ( cuisines Beldi et Roumi). <br>
-                    Elle s’occupe egalment de la gestion des enfants scolarisés : en aidant notamment les enfants à se préparer avant l’école, veille sur eux à leur retour, les accompagne au transport scolaire ou éventuellement les déposer à l’école.
+                    L’employée  polyvalente est une personne capable de prendre en charge plusieurs responsabilités dans un cadre domestique .<br>
+                    Les tâches principales seront de s’occuper de la propreté de la maison et à préparer des plats variés ( cuisines Beldi et Roumi) <br>
+                    Elle s’occupe de la gestion des enfants scolarisés : en aidant notamment les enfants à se préparer avant l’école, veille sur eux à leur retour, les accompagne au transport scolaire ou éventuellement les dépose à l’école. 
                     <br>
-                    Cette polyvalence permet de répondre au besoin domestique et familieux de manière efficace et adapter. En d’autres termes, il s’agit de profils «ménage, cuisine beldi & roumi, Aide nounou » ou « ménage, cuisine marocaine traditionnelle & aide nounou »
+                    Cette polyvalence permet de répondre au besoin domestique et familieux de manière efficace et adapter. En d’autres termes, ils s’agit de profils «ménage, cuisine beldi & roumi, Aide nounou » ou « ménage, cuisine marocaine traditionnelle & aide nounou »  
 
                   </p>
                   <a href="{{ route('contact-us') }}" class="btn btn__primary justify-content-between">
