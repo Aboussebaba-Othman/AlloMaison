@@ -1,0 +1,11 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Redirect all requests to the /public folder
+    RewriteCond %{REQUEST_URI} !^/public/
+    RewriteRule ^(.*)$ /public/$1 [L]
+
+    # Optional: redirect to index.php in /public if the request is for the root
+    RewriteCond %{REQUEST_URI} ^/$
+    RewriteRule ^$ /public/index.php [L]
+</IfModule>

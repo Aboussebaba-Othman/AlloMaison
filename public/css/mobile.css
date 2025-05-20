@@ -1,0 +1,140 @@
+@media only screen and (max-width: 600px) {
+
+    .process__desc {
+        font-size: 23px;
+    }
+
+    #etap1-button {
+        font-size: 20px;
+    }
+
+    #etap1-text {
+        font-size: 23px;
+    }
+
+    #etap3-button {
+        font-size: 20px;
+    }
+
+    #etap3-text {
+        font-size: 23px;
+    }
+
+    #etap4-text {
+        font-size: 23px;
+    }
+
+    #etap4-button {
+        font-size: 20px;
+    }
+
+    .about-layout1 .about__Text p {
+        font-size: 20px;
+    }
+
+    .heading__title {
+        font-size: 30px;
+    }
+
+    .feature-item .feature__title {
+        font-size: 20px;
+    }
+
+    .feature-item .feature__desc {
+        font-size: 16px;
+    }
+
+    .service-item .service__title {
+        font-size: 19px;
+    }
+
+    .service-item .service__desc {
+        font-size: 15px;
+    }
+
+    .btn:not(.btn__link) {
+        font-size: 12px;
+    }
+
+    .pricing-package .package__desc {
+        font-size: 17px;
+        padding-left: 14px;
+    }
+
+    .slider .slide__title {
+        font-size: 30px;
+        line-height: 38px;
+    }
+
+    .slider .slick-dots {
+        bottom: 50px;
+        padding-left: 35px;
+    }
+
+
+
+    .pricing-package {
+        padding-bottom: 0px;
+    }
+
+    .pricing-package .package__subtitle {
+        /* padding-left: 45px; */
+        font-size: 18px;
+    }
+
+    .footer-widget-nav {
+        padding-left: 22px;
+    }
+
+    .page-title-layout4 {
+        display: none;
+    }
+
+    #nav-mobile {
+        display: block !important;
+    }
+
+    #nav-desktop {
+        display: none;
+    }
+
+    .navbar .nav__item {
+        width: unset !important;
+    }
+
+    .about-layout1 .about__icon {
+        display: none;
+    }
+
+    .process-item {
+        -webkit-box-shadow: 0px -1px 13px 3px rgba(178, 224, 240, 1);
+        -moz-box-shadow: 0px -1px 13px 3px rgba(178, 224, 240, 1);
+        box-shadow: 0px -1px 13px 3px rgba(178, 224, 240, 1);
+    }
+
+
+    .footer-widget__title {
+        padding: 0px !important;
+    }
+
+    .btn.btn__white.btn__link {
+        padding: 0px !important;
+    }
+
+    .footer-widget-contact {
+        padding: 0px !important;
+    }
+
+    #shadow-host-companion {
+        padding: 0px !important;
+    }
+
+    .footer-secondary {
+        padding: 0px !important;
+    }
+
+    .footer-widget-nav {
+        padding: 0px;
+    }
+
+}
