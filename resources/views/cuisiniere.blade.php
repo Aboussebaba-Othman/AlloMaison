@@ -30,7 +30,7 @@
     <div class="row">
       <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
         <div class="heading text-center mb-60">
-          <h2 class="heading__title">CUISINIÈRE</h2>
+          <h2 class="heading__title">CUISINIERES</h2>
           <h3 class="heading__subtitle">Des Cuisinières Permanentes, Ponctuelles Ou Hebdomadaires</h3>
           <p></p>
         </div><!-- /.heading -->
@@ -50,8 +50,7 @@
                 <div class="text-center">
                   <h5 class="package__subtitle">Dégustez des repas savoureux et raffinés préparés par nos cuisinières expérimentées</h5>
                   <p class="package__desc" style="text-align:left ;">
-                    Imaginez-vous savourant un délicieux repas préparé par une cuisinière expérimentée qui maitrise différentes cuisine : La cuisine marocaine traditionnelle comme la cuisine occidentale et internationale, le tout, dans le confort de votre propre maison.
-                  </p>
+                    Imaginez-vous savourant un délicieux repas préparé par une cuisinière expérimentée qui maitrise différentes cuisine : La cuisine marocaine traditionnelle comme la cuisine occidentale et internationale, le tout, dans le confort de votre propre maison.                   </p>
                 </div>
 
               </div><!-- /.package__body -->
@@ -66,7 +65,7 @@
                 <div class="text-center">
                   <h5 class="package__subtitle">Des plats sur mesure pour toutes les occasions</h5>
                   <p class="package__desc" style="text-align: left;">
-                    Que vous ayez besoin d'un repas quotidien pour votre famille, d'un menu pour une occasion spéciale ou d'un buffet copieux pour une réception, nos cuisinières s'adaptent à vos besoins et à vos envies.
+                    Que vous ayez besoin d'un repas quotidien pour votre famille, d'un menu pour une occasion spéciale ou d'un buffet copieux pour une réception, nos cuisinières s'adaptent à vos besoins et à vos envies. 
                   </p>
 
                 </div>
@@ -90,10 +89,9 @@
             <div class="col-sm-12 col-md-12 col-lg-6">
               <div class="package__body">
                 <div class="text-center">
-                  <h5 class="package__subtitle">Une cuisinière passionnée et professionnelle </h5>
+                  <h5 class="package__subtitle">Une cuisinière passionnée et professionnelle</h5>
                   <p class="package__desc" style="text-align: left;">
-                    Grâce à Allo Maison, vous pouvez faire confiance à des profils aguerris, propre et expérimentés quelque soit votre besoin ! Toutes nos cuisinières, sont triées sur le volet et soigneusement sélectionnées sur la base de plusieurs critères (Feedback positifs coroborés par les clients, références officiels…) Elle vont vous préparer des plats délicieux et variés, simples ou élaborés selon vos envies et ceux de votre famille ou invités.
-
+                    Grâce à Allo Maison, vous pouvez faire confiance à des profils aguerris, propre et expérimentés quelque soit votre besoin ! Toutes nos cuisinières, sont triées sur le volet et soigneusement sélectionnées sur la base de plusieurs critères (Feedback positifs coroborés par les clients, références officiels…) Elle vont vous préparer des plats délicieux et variés, simples ou élaborés selon vos envies et ceux de votre famille ou invités. 
                   </p>
                   <a href="{{ route('contact-us') }}" class="btn btn__primary justify-content-between">
                     <span>Je suis intéressé !</span>
